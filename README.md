@@ -98,7 +98,7 @@ O modelo embarcado (luxia.h) é uma rede neural convertida para TensorFlow Lite 
 
 - Tamanho: ~1KB no flash
 
-# 🔄 Fluxograma do Sistema Luxia (ESP32 + TinyML)
+# 🔄 Fluxograma do Sistema hELLO WORLD ML (ESP32 + TinyML)
 
 ```mermaid
 graph TD
